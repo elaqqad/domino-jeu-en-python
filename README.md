@@ -3,4 +3,4 @@
 
 
 
-![Description](https://raw.githubusercontent.com/yassmarzou/C-shared-memory/master/description.pdf)
+![Description](https://github.com/elaqqad/domino-jeu-en-python/blob/master/description.pdf)
