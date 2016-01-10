@@ -3,4 +3,4 @@
 
 
 
-![Figure](https://raw.githubusercontent.com/yassmarzou/C-shared-memory/master/description.pdf)
+![Description](https://raw.githubusercontent.com/yassmarzou/C-shared-memory/master/description.pdf)
